@@ -1,0 +1,6 @@
+{
+  "minimum-stability": "stable",
+  "require": {
+    "php-amqplib/php-amqplib": "^3.0"
+  }
+}
